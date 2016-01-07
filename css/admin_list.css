@@ -1,0 +1,18 @@
+﻿ body {
+            padding-top: 20px;
+            padding-bottom: 60px;
+        }
+
+        /* Custom container */
+        .container {
+            margin: 0 auto;
+            max-width: 1000px;
+            position:relative;
+        }
+
+
+.add_new {
+      position: absolute;
+    right: 18px;
+    top: 14px;
+}
